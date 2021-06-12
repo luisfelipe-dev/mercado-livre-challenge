@@ -1,0 +1,21 @@
+{
+  "name": "Mercado Livre - Brasil",
+  "short_name": "mercado livre",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/favicon.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "A maior Comunidade de compra e venda online da América Latina.",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
